@@ -1,4 +1,4 @@
-# Computacion-Fisica
+<img width="954" height="1395" alt="89ddd7c5-84b3-40ad-ad84-9ac2448d9f09" src="https://github.com/user-attachments/assets/731d53bb-70bb-4a68-9c4d-cd02a04d690e" /># Computacion-Fisica
 
 Equipo: Ivan Morote Aguilar
 
@@ -23,6 +23,10 @@ Crear y subir las primeras versiones del código:
 ## Boceto en Tinkercad
 
 <img width="1367" height="727" alt="image" src="https://github.com/user-attachments/assets/fe3104a1-05e6-406e-b8e3-ee67037d7611" />
+
+Mi minijuego tiene componentes que no encuentro en Tinkercad, te dejo una imagen para que veas el boceto/prototipo de lo que quiero hacer:
+
+<img width="954" height="1395" alt="89ddd7c5-84b3-40ad-ad84-9ac2448d9f09" src="https://github.com/user-attachments/assets/a3e3a576-9247-4085-bf78-13ced8ce6fba" />
 
 ## Code
 
