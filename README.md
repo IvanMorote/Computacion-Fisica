@@ -20,6 +20,10 @@ Crear y subir las primeras versiones del código:
   - Mostrar un punto en pantalla
   - Permitir control básico (arriba, abajo, izquierda, derecha)
 
+## Boceto en Tinkercad
+
+<img width="1367" height="727" alt="image" src="https://github.com/user-attachments/assets/fe3104a1-05e6-406e-b8e3-ee67037d7611" />
+
 ## Code
 
 ```cpp
@@ -257,3 +261,5 @@ void loop() {
   // ...Every 0.5 secs
   delay(500);
 }
+
+
