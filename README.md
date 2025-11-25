@@ -1,5 +1,3 @@
-<img width="954" height="1395" alt="89ddd7c5-84b3-40ad-ad84-9ac2448d9f09" src="https://github.com/user-attachments/assets/731d53bb-70bb-4a68-9c4d-cd02a04d690e" /># Computacion-Fisica
-
 Equipo: Ivan Morote Aguilar
 
 Roles: Ivan Morote Aguilar (Montaje proyecto entero)
